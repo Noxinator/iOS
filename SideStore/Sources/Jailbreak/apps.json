@@ -34,6 +34,34 @@
           "minOSVersion": "15.0"
         }
       ]
+    },
+    {
+      "name": "Dopamine (RootHide)",
+      "bundleIdentifier": "com.opa334.Dopamine.roothide",
+      "developerName": "opa334 & roothider",
+      "subtitle": "RootHide version of Dopamine jailbreak",
+      "localizedDescription": "Dopamine RootHide version supporting jailbreak detection hiding on iOS 15.0 - 16.6.1.",
+      "iconURL": "https://theapplewiki.com/images/applewiki/c/c6/Dopamine-roothide_Icon.png",
+      "screenshotURLs": [
+        "https://cdn.4pmtech.com/wp-content/uploads/2024/02/RootHide-bootstrap-installed-via-TrollStore.webp"
+      ],
+      "tintColor": "#00ff00",
+      "category": "utilities",
+      "version": "25",
+      "versionDate": "2025-06-12T00:00:00Z",
+      "versionDescription": "Dopamine RootHide release 25.",
+      "downloadURL": "https://github.com/roothide/Dopamine2-roothide/releases/download/25/Dopamine.ipa",
+      "size": 16000000,
+      "versions": [
+        {
+          "version": "25",
+          "date": "2025-06-12T00:00:00Z",
+          "localizedDescription": "Dopamine RootHide release 25.",
+          "downloadURL": "https://github.com/roothide/Dopamine2-roothide/releases/download/25/Dopamine.ipa",
+          "size": 16000000,
+          "minOSVersion": "15.0"
+        }
+      ]
     }
   ]
 }
